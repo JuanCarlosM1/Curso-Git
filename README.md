@@ -1,0 +1,1 @@
+Repositorio para um cruso de Git
